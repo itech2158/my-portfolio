@@ -26,8 +26,6 @@ body {
 
 main {
   overflow: hidden;
-  background-color: #a2dedd;
-  background-image: linear-gradient(52deg,#a2dedd 0%,#e8f6f6 20%,#e8f6f6 80%,#a2dedd 100%);
 }
 
 p {
